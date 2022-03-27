@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 resourcetype: Document
 title: coloradoriver.pdf
 uid: 63873200-1a3f-a800-5d6a-0ebb851e384b

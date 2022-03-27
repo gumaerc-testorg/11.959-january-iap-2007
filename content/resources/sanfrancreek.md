@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 resourcetype: Document
 title: sanfrancreek.pdf
 uid: fa2b1281-cda5-0515-2646-25891e6747a7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 resourcetype: Document
 title: turner_johnday.pdf
 uid: 46795d70-ef98-91e0-4e7b-0bcb5b265c9d

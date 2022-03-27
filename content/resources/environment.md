@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 resourcetype: Document
 title: environment.pdf
 uid: 24dba49f-d4df-ebe9-ea49-23fb32eb77ce
