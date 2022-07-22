@@ -7,6 +7,7 @@ file: /courses/11-959-reforming-natural-resources-governance-failings-of-scienti
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: environment.pdf
 uid: 24dba49f-d4df-ebe9-ea49-23fb32eb77ce
 ---
 This resource contains information about effective integration of science and policy through joint fact finding from "A Dialogue, Not a Diatribe" by Herman A. Karl, Lawrence E. Susskind, and Katherine H. Wallace.
-
