@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section provides citations and links to the course readings.     '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 ---
@@ -12,13 +16,13 @@ Bryan, Todd. "Tragedy Averted: The Promise of Collaboration." _Society and Natur
 
 Beratan, Kathi, and Herman Karl. "Managing the Science-Policy Interface in a Complex and Contentious World - A Discussion." (Draft report, not in print.)
 
-Adler, Peter, and Juliana Birkhoff. "Building Trust." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf))
+Adler, Peter, and Juliana Birkhoff. "Building Trust." ([PDF](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf))
 
 Smith, M. Estellie. "Chaos, Consensus and Common Sense." _The Ecologist_ 25, nos. 2 and 3 (1995): 80-85.
 
-Turner, Christine. "An Experience in John Day, Oregon - The Need for USGS Agenda-less Science in Collaborative Partnerships." ([PDF]({{< baseurl >}}/resources/turner_johnday))
+Turner, Christine. "An Experience in John Day, Oregon - The Need for USGS Agenda-less Science in Collaborative Partnerships." ({{% resource_link 46795d70-ef98-91e0-4e7b-0bcb5b265c9d "PDF" %}})
 
-Gloss, Steven, Jeffrey Lovich, and Theodore Melis, eds. _The State of the Colorado River Ecosystem in the Grand Canyon_. Washington, DC: United States Geological Survey, 2005. ([PDF - 6.7 MB]({{< baseurl >}}/resources/coloradoriver))
+Gloss, Steven, Jeffrey Lovich, and Theodore Melis, eds. _The State of the Colorado River Ecosystem in the Grand Canyon_. Washington, DC: United States Geological Survey, 2005. ({{% resource_link 63873200-1a3f-a800-5d6a-0ebb851e384b "PDF - 6.7 MB" %}})
 
 Easterly, William. _The White Man's Burden_. New York, NY: Penguin Press, 2006. ISBN: 0143038826.
 
@@ -38,7 +42,7 @@ Daniels, Steven, and Gregg Walker. _Working through Environmental Conflict_. Wes
 
 Adler, Peter, et al. "[Managing Scientific and Technical Information in Environmental Cases](http://www.mediate.com/)."
 
-Rofougaran, Nicolas, and Herman Karl. _San Francisquito Creek - The Problem of Science in Environmental Disputes_ . Reston, VA: United States Geological Survey, 2005. ([PDF - 5.4 MB]({{< baseurl >}}/resources/sanfrancreek))
+Rofougaran, Nicolas, and Herman Karl. _San Francisquito Creek - The Problem of Science in Environmental Disputes_ . Reston, VA: United States Geological Survey, 2005. ({{% resource_link fa2b1281-cda5-0515-2646-25891e6747a7 "PDF - 5.4 MB" %}})
 
 Ascher, William. "Scientific Information and Uncertainty: Challenges for the Use of Science in Policymaking." _Science and Engineering Ethics_ 10, no. 3 (2004): 437-455.
 
@@ -70,7 +74,7 @@ Wood, Wendy. "Attitude Change: Persuasion and Social Influence." _Annual Review 
 
 Hullett, Craig. "The Impact of Mood on Persuasion: A Meta-Analysis." _Communication Research_ 32, no. 4 (2005): 423-442.
 
-Karl, Herman, Lawrence Susskind, and Katherine Wallace. "A Dialogue, Not a Diatribe." _Environment_ 49, no. 1 (2007): 20-34. ([PDF]({{< baseurl >}}/resources/environment))
+Karl, Herman, Lawrence Susskind, and Katherine Wallace. "A Dialogue, Not a Diatribe." _Environment_ 49, no. 1 (2007): 20-34. ({{% resource_link 24dba49f-d4df-ebe9-ea49-23fb32eb77ce "PDF" %}})
 
 Brunner, Ronald, and Toddi Steelman. "Beyond Scientific Management," and "Toward Adaptive Governance," chapters 1 and 7 in _Adaptive Governance_. New York, NY: Columbia University Press, 2005. ISBN: 0231136250.
 

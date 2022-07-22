@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This syllabus section provides a course overview and information on
+  meeting times and the process of addressing ecological problems. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 80bfb6a2-81ec-d2ba-2f6e-41666bea753c
 ---
