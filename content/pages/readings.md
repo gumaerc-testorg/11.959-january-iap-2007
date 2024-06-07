@@ -10,13 +10,13 @@ uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 
 Leurig, Sharlnee. "The Tomales Bay Watershed Council: A Case Study of Collaborative Watershed Management." (Draft report, not in print.)
 
-Shellenberger, Michael, and Ted Nordhaus. "The Death of Environmentalism." {{% resource_link "cb91ebf9-c84e-43ee-8130-33c06941ad04" "_Global Warming Politics in a Post-Environmental World_" %}}.
+Shellenberger, Michael, and Ted Nordhaus. "The Death of Environmentalism." [_Global Warming Politics in a Post-Environmental World_](http://www.grist.org/news/maindish/2005/01/13/doe-reprint/).
 
 Bryan, Todd. "Tragedy Averted: The Promise of Collaboration." _Society and Natural Resources_ 17 (2004): 881-896.
 
 Beratan, Kathi, and Herman Karl. "Managing the Science-Policy Interface in a Complex and Contentious World - A Discussion." (Draft report, not in print.)
 
-Adler, Peter, and Juliana Birkhoff. "Building Trust." ({{% resource_link "03ea9025-f91e-4f60-8c91-265b28f26db7" "PDF" %}})
+Adler, Peter, and Juliana Birkhoff. "Building Trust." ([PDF](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf))
 
 Smith, M. Estellie. "Chaos, Consensus and Common Sense." _The Ecologist_ 25, nos. 2 and 3 (1995): 80-85.
 
@@ -28,7 +28,7 @@ Easterly, William. _The White Man's Burden_. New York, NY: Penguin Press, 2006. 
 
 Leopold, Aldo. _A Sand County Almanac_. New York, NY: Oxford University Press, 2001. ISBN: 0195146174.
 
-Kemmis, Daniel. "{{% resource_link "2dd20cf6-221d-4c98-bea4-ba0c68b2a485" "Science's Role in Natural Resource Decisions" %}}." _Issues in Science and Technology_, Summer 2002.
+Kemmis, Daniel. "[Science's Role in Natural Resource Decisions](https://issues.org/p_kemmis/#:~:text=Collaborative%20efforts%20that%20rely%20on,resolving%20difficult%20land%20use%20issues.&text=This%20nexus%20was%20woven%20into,turn%20of%20the%20last%20century.)." _Issues in Science and Technology_, Summer 2002.
 
 McKinney, Matthew, and William Harmon. _The Western Confluence_. Washington, DC: Island Press, 2004. ISBN: 1559639636.
 
@@ -40,7 +40,7 @@ Berkes, Fikret, and Carl Folke. "Back to the Future: Ecosystem Dynamics and Loca
 
 Daniels, Steven, and Gregg Walker. _Working through Environmental Conflict_. Westport, CT: Praeger Press, 2001. ISBN: 0275964736.
 
-Adler, Peter, et al. "{{% resource_link "435e24d5-139b-4687-a605-240555123d7a" "Managing Scientific and Technical Information in Environmental Cases" %}}."
+Adler, Peter, et al. "[Managing Scientific and Technical Information in Environmental Cases](http://www.mediate.com/)."
 
 Rofougaran, Nicolas, and Herman Karl. _San Francisquito Creek - The Problem of Science in Environmental Disputes_ . Reston, VA: United States Geological Survey, 2005. ({{% resource_link fa2b1281-cda5-0515-2646-25891e6747a7 "PDF - 5.4 MB" %}})
 
@@ -60,13 +60,13 @@ Van Hiel, Alain, and Ivan Mervielde. "Openness to Experience and Boundaries in t
 
 Webster, Donna, and Arie Kruglanski. "Individual Differences in Need for Cognitive Closure." _Journal of Personality and Social Psychology_ 67, no. 6 (1994): 1049-1062.
 
-Gunderson, Lance. "Resilience, Flexibility and Adaptive Management - Antidotes for Spurious Certitude?" {{% resource_link "965e9d90-2f62-448f-b22f-7331db882d63" "_Conservation Ecology_" %}} 3, nos. 1 and 7 (1999).
+Gunderson, Lance. "Resilience, Flexibility and Adaptive Management - Antidotes for Spurious Certitude?" [_Conservation Ecology_](http://www.ecologyandsociety.org/vol3/iss1/art7) 3, nos. 1 and 7 (1999).
 
-Lee, Kai. "Appraising Adaptive Management." {{% resource_link "39f12a65-5078-47d4-b8e3-494500ff1be6" "_Conservation Ecology_" %}} 3, nos. 2 and 3 (1999).
+Lee, Kai. "Appraising Adaptive Management." [_Conservation Ecology_](http://www.ecologyandsociety.org/vol3/iss2/art3/) 3, nos. 2 and 3 (1999).
 
-Walters, Carl. "Challenges in Adaptive Management of Riparian and Coastal Ecosystems." {{% resource_link "e7e8c66a-32d8-4394-a32c-6c8e565c2489" "_Conservation Ecology_" %}} 1, nos. 1 and 2 (1997).
+Walters, Carl. "Challenges in Adaptive Management of Riparian and Coastal Ecosystems." [_Conservation Ecology_](http://www.ecologyandsociety.org/vol1/iss2/art1/) 1, nos. 1 and 2 (1997).
 
-Shindler, Bruce, and Kristin Cheek. "Integrating Citizens in Adaptive Management: A Propositional Analysis." {{% resource_link "d9c088fa-daf0-4527-a365-2eb049521fad" "_Conservation Ecology_" %}} 3, nos. 1 and 9 (1999).
+Shindler, Bruce, and Kristin Cheek. "Integrating Citizens in Adaptive Management: A Propositional Analysis." [_Conservation Ecology_](http://www.ecologyandsociety.org/vol3/iss1/art9/) 3, nos. 1 and 9 (1999).
 
 McRae, Robert. "Social Consequences of Experiential Openness." _Psychological Bulletin_ 120, no. 3 (1996): 323-337.
 
