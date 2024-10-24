@@ -4,7 +4,7 @@ description: This file contains information about San Francisquito Creek?The pro
   of science in environmental disputes, Joint Fact Finding as a Transdisciplinary
   Approach toward Environmental Policy Making, by Nicolas L. Rofougaran and Herman
   A. Karl.
-file: /courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/fa2b1281cda50515264625891e6747a7_sanfrancreek.pdf
+file: /ol-ocw-studio-app/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/fa2b1281cda50515264625891e6747a7_sanfrancreek.pdf
 file_size: 5704957
 file_type: application/pdf
 learning_resource_types:
